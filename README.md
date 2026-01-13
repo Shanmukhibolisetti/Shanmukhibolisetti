@@ -13,7 +13,7 @@
 
 🔗My profiles
 
-- [![LeetCode Stats](https://leetcard.jacoblin.cool/shanmukhi_bolisetti?theme=dark&font=Roboto&ext=heatmap&cache=0)](https://leetcode.com/u/shanmukhi_bolisetti/)
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/shanmukhi_b?theme=dark&font=Roboto&ext=heatmap&cache=0)](https://leetcode.com/u/shanmukhi_bolisetti/)
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shanmukhi-bolisetti/)
 -  [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/shanmukhi_bolisetti)
